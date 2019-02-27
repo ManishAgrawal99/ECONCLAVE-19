@@ -1,0 +1,21 @@
+<!--About the theme-->
+    <div class="section section-description fp-auto-height-responsive fullscreen-md" data-section="theme" id="theme-div">
+        <!-- Begin of section wrapper -->
+        <div class="section-wrapper center-vh dir-col anim">
+            <!-- title -->
+            <div class="section-title text-center">
+                <h5 class="title-bg">About Us</h5>
+            </div>
+            <!-- content -->
+
+            <div class="text-div">
+                <h4>ABOUT THE THEME</h4>
+            </div>
+            <!-- Arrows scroll down/up -->
+
+            <footer class="section-footer scrolldown"><a class="down"> <span class="txt">Events</span> </a></footer>
+        </div>
+        <!-- End of section wrapper -->
+    </div>
+
+    <!--End of about the theme-->
